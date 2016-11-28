@@ -1,7 +1,7 @@
 ## 好用模板們
 
 #### Basic
-- [ ] define
+- [x] default
 - [x] FastIO
 
 #### Data-Structure
@@ -30,7 +30,7 @@
 - [ ] Matrix
 - [ ] Miller-Rabin
 - [ ] Module-Inverse
-- [ ] Prime
+- [x] Prime
 
 #### Sort
 - [ ] Heap-Sort
