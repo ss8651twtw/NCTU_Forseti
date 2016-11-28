@@ -5,7 +5,7 @@
 - [x] FastIO
 
 #### Data-Structure
-- [ ] Disjoint-Set
+- [x] Disjoint-Set
 - [ ] Segment-Tree
 - [ ] BIT
 - [ ] RMQ
@@ -23,7 +23,7 @@
 - [ ] LCA
 
 #### Math
-- [ ] BigInt
+- [x] BigInt
 - [ ] Extended-Euclidean
 - [ ] Factor-Decomposition
 - [ ] Fraction
