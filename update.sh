@@ -17,8 +17,8 @@ function addline {
 	read contest_url
 	echo "Date:"
 	read date
-	num=$((`cat README.md | wc -l` - 7))
-	sed "${num} a|[${contest_name}](${contest_url})|${date}|||||||||||||" -i README.md
+	num=$((`cat README.md | wc -l` - 6))
+	sed "${num} a|[${contest_name}](${contest_url})|${date}||||||||||||||" -i README.md
 	echo "DONE"
 }
 function editline {
