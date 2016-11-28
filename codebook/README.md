@@ -2,7 +2,7 @@
 
 #### Basic
 - [ ] define
-- [ ] FastIO
+- [x] FastIO
 
 #### Data-Structure
 - [ ] Disjoint-Set
