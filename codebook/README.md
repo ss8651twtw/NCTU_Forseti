@@ -34,7 +34,7 @@
 
 #### Sort
 - [ ] Heap-Sort
-- [ ] Merge-Sort
+- [x] Merge-Sort
 
 #### Stringology
 - [ ] AC-Automaton
