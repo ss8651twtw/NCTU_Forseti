@@ -31,6 +31,7 @@
 - [ ] Miller-Rabin
 - [ ] Module-Inverse
 - [x] Prime
+- [x] Permutation
 
 #### Sort
 - [ ] Heap-Sort
