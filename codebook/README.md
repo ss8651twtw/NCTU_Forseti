@@ -9,6 +9,7 @@
 - [ ] Segment-Tree
 - [ ] BIT
 - [ ] RMQ
+- [ ] Flow
 
 #### Geometry
 
