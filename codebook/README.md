@@ -1,7 +1,7 @@
 ## 好用模板們
 
 #### Basic
-- [x] default
+- [x] Default
 - [x] FastIO
 
 #### Data-Structure
@@ -15,6 +15,7 @@
 
 
 #### Graph
+- [x] Diameter
 - [ ] SPFA
 - [ ] Kruskal
 - [ ] Dijkstra
