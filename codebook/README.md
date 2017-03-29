@@ -33,6 +33,7 @@
 - [ ] Miller-Rabin
 - [ ] Module-Inverse
 - [x] Prime
+- [x] Prime-Test
 - [x] Permutation
 
 #### Sort
